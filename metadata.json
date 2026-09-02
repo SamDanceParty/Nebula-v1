@@ -1,0 +1,7 @@
+{
+  "name": "Синтезатор и аудио-студия",
+  "description": "Полифонический синтезатор со встроенными эффектами обработки сигнала, осциллографом и записью звука в реальном времени.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
